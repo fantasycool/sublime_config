@@ -1,0 +1,54 @@
+{
+	"auto_complete": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric"
+		}
+	],
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.ipynb",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".ipynb_checkpoints",
+		".git",
+		"__pycache__"
+	],
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Python Checker",
+		"Python Fix Imports",
+		"Python Flake8 Lint",
+		"PyV8",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"pep8_ignore":
+	[
+		"E501"
+	],
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"show_minimap": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
